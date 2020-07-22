@@ -1,0 +1,43 @@
+body{
+    background-image: url(./img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    
+}
+.container{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    color: white;
+
+}
+input{
+    width: 250px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 25px;
+}
+button{
+    margin: 10px;
+    border-radius: 9px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(83, 83, 83);
+    color: white;
+}
+.row{
+    text-align: center;
+    justify-self: center;
+    border-left:2px solid;
+    width: 200px;
+    border-right: 3px solid green;
+
+    
+}
+#showdata{
+    justify-content: center;
+    text-align:center;
+    width: 400px;
+    border-right: 3px dotted green;
+
+}
